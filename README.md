@@ -4,7 +4,7 @@
 
 # Demo
 
-Живая версия игры: https://landing-about-car.netlify.app/
+Живая версия игры: https://ball-obstacles-game.netlify.app/
 
 ## Функционал
 - Управление шариком кликами мыши (нажатие по полю).
